@@ -4,7 +4,7 @@ https://nossos-pes-viajantes.vercel.app/
 ### **O que é isso?**
 
 Aqui está o resultado da experiência de aprendizagem em que realizei meu primeiro "Olá Mundo!" da vida! 
-É um site simples representando um projeto pessoal sobre viagens, roteiros e experiências para auxiliar outras pessoas a planejar suas próximas aventuras! Com ele, você pode pesquisar por lugares incríveis e descobrir lugares e dicas incríveis para suas viagens. 
+*É um site simples representando um projeto pessoal sobre viagens, roteiros e experiências para auxiliar outras pessoas a planejar suas próximas aventuras. Com ele, você pode pesquisar por lugares incríveis e descobrir lugares e dicas incríveis para suas viagens. 
 
 **Como funciona?**
 
